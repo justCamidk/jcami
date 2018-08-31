@@ -2,5 +2,7 @@
 <head>
 <title> Velkommen til min html </title> 
 </head>
+<body> 
 <p> Det her er en simpel html vi skulle lave </p> 
+</body> 
 </html> 
